@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.16.1 (2026-07-08)
+
+Full Changelog: [v1.16.0...v1.16.1](https://github.com/anthropics/anthropic-cli/compare/v1.16.0...v1.16.1)
+
+### Chores
+
+* **docs:** updates to descriptions and examples ([f81cd30](https://github.com/anthropics/anthropic-cli/commit/f81cd30432a93fdb628d29017080e5adf9b9f54a))
+
 ## 1.16.0 (2026-07-02)
 
 Full Changelog: [v1.15.0...v1.16.0](https://github.com/anthropics/anthropic-cli/compare/v1.15.0...v1.16.0)
